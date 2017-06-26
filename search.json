@@ -1,0 +1,19 @@
+{
+  "code": 0, 
+  "message": "success", 
+  "result": [
+    {
+      "actors": "\u6842\u7eb6\u9541, \u738b\u666f\u6625, \u6b27\u9633\u5a1c\u5a1c", 
+      "classification": "\u559c\u5267, \u5947\u5e7b", 
+      "directors": "\u4f55\u851a\u5ead", 
+      "film_id": 5259, 
+      "film_name": "\u7f8e\u597d\u7684\u610f\u5916", 
+      "last_release_date": null, 
+      "net_box": null, 
+      "release_date": "2017-05-20", 
+      "release_days": 37, 
+      "sitll_url": "http://yundesktest.moviewisdom.cn/film/p2457127046.jpg", 
+      "total_box": null
+    }
+  ]
+}
