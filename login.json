@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "bind_wb": null,
+        "bind_wx": null,
+        "token": "eyJhbGciOiJIUzI1NiIsImV4cCI6MTUwNjIzNjQ3NCwiaWF0IjoxNDk4NDYwNDc0fQ.eyJpZCI6ODB9.CHUS1nRurXgr1q4bo_hwZGf8hC1AxpLs4LWHzVfNyjQ",
+        "user_account": "123456",
+        "user_icon": null,
+        "user_id": 80,
+        "user_nick": "",
+        "user_phone": "12345612345",
+        "vip": "",
+        "wb_name": null,
+        "wx_name": null
+    }
+}
